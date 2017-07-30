@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Caspian Acres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jul 2017 23:31:04 -0700</lastBuildDate>
     
 	<atom:link href="http://caspianacres.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Natural_hatch</title>
+      <link>http://caspianacres.ca/tags/natural_hatch/</link>
+      <pubDate>Sat, 29 Jul 2017 23:31:04 -0700</pubDate>
+      
+      <guid>http://caspianacres.ca/tags/natural_hatch/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
