@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   description = "We are a small farm focused on generating food for our local community"
-  facebook = ""
+  facebook = "https://www.facebook.com/caspianacres/"
   twitter = "https://twitter.com/caspian_acres"
   instagram = "https://www.instagram.com/caspian_acres/"
   youtube = "https://www.youtube.com/channel/UCIY2C9haSCebjXPbNV1AQEA"

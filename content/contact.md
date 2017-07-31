@@ -10,4 +10,4 @@ menu:
 
 You can email us at `info@caspianacres.ca` or call us at **1(778)5860917**. We would love to hear from you!
 
-We are located in Cherry Creek near Kamloops, BC.
+We are located in Cherry Creek near Kamloops, BC, Canada.
