@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pork Ham Bacon Sausage on Caspian Acres</title>
+    <link>http://caspianacres.ca/tags/pork-ham-bacon-sausage/</link>
+    <description>Recent content in Pork Ham Bacon Sausage on Caspian Acres</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2017 22:05:31 -0700</lastBuildDate>
+    
+	<atom:link href="http://caspianacres.ca/tags/pork-ham-bacon-sausage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pork</title>
+      <link>http://caspianacres.ca/products/pork/</link>
+      <pubDate>Tue, 24 Oct 2017 22:05:31 -0700</pubDate>
+      
+      <guid>http://caspianacres.ca/products/pork/</guid>
+      <description>Our pigs live a natural life outside with space to root, run and mud bath to their hearts content. They are fed food scraps from local restaurants and contributors in and around the kamloops area. From time to time we have a limited amount of pork available.
+   Item Price ($/lb)     Pork chop 10.00   Bacon, cured 12.00   Spare ribs 8.00   Breakfast sausage 8.</description>
+    </item>
+    
+  </channel>
+</rss>
