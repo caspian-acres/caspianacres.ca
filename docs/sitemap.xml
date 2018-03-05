@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://caspianacres.ca/post/hiring-march-2018/</loc>
+    <lastmod>2018-03-04T15:21:46-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://caspianacres.ca/products/pork/</loc>
     <lastmod>2017-10-24T22:05:31-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -31,7 +38,7 @@
   
   <url>
     <loc>http://caspianacres.ca/</loc>
-    <lastmod>2017-10-24T22:05:31-07:00</lastmod>
+    <lastmod>2018-03-04T15:21:46-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -46,6 +53,27 @@
     <loc>http://caspianacres.ca/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://caspianacres.ca/tags/hiring/</loc>
+    <lastmod>2018-03-04T15:21:46-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://caspianacres.ca/tags/intern/</loc>
+    <lastmod>2018-03-04T15:21:46-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://caspianacres.ca/tags/kamloops/</loc>
+    <lastmod>2018-03-04T15:21:46-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -70,8 +98,15 @@
   </url>
   
   <url>
+    <loc>http://caspianacres.ca/tags/summer_job/</loc>
+    <lastmod>2018-03-04T15:21:46-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://caspianacres.ca/tags/</loc>
-    <lastmod>2017-07-29T23:31:04-07:00</lastmod>
+    <lastmod>2018-03-04T15:21:46-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

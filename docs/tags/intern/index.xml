@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intern on Caspian Acres</title>
+    <link>http://caspianacres.ca/tags/intern/</link>
+    <description>Recent content in Intern on Caspian Acres</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Mar 2018 15:21:46 -0800</lastBuildDate>
+    
+	<atom:link href="http://caspianacres.ca/tags/intern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We Are Hiring!</title>
+      <link>http://caspianacres.ca/post/hiring-march-2018/</link>
+      <pubDate>Sun, 04 Mar 2018 15:21:46 -0800</pubDate>
+      
+      <guid>http://caspianacres.ca/post/hiring-march-2018/</guid>
+      <description>We are hiring! We are looking for a summer intern to help us take care of our farm and expand our integrated duck and black soldier fly farming operation. This is a new and experimental concept that we are developing on our farm and we believe it is a great way to produce high quality and delicious meat for our local market, right here in Kamloops.
+Our farm is growing and it is becoming increasingly risky for the two of us to be the only people knowing how to run the farm.</description>
+    </item>
+    
+  </channel>
+</rss>

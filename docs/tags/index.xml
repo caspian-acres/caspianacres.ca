@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Caspian Acres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jul 2017 23:31:04 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 04 Mar 2018 15:21:46 -0800</lastBuildDate>
     
 	<atom:link href="http://caspianacres.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hiring</title>
+      <link>http://caspianacres.ca/tags/hiring/</link>
+      <pubDate>Sun, 04 Mar 2018 15:21:46 -0800</pubDate>
+      
+      <guid>http://caspianacres.ca/tags/hiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intern</title>
+      <link>http://caspianacres.ca/tags/intern/</link>
+      <pubDate>Sun, 04 Mar 2018 15:21:46 -0800</pubDate>
+      
+      <guid>http://caspianacres.ca/tags/intern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kamloops</title>
+      <link>http://caspianacres.ca/tags/kamloops/</link>
+      <pubDate>Sun, 04 Mar 2018 15:21:46 -0800</pubDate>
+      
+      <guid>http://caspianacres.ca/tags/kamloops/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Natural_hatch</title>
@@ -26,6 +53,15 @@
       <pubDate>Tue, 24 Oct 2017 22:05:31 -0700</pubDate>
       
       <guid>http://caspianacres.ca/tags/pork-ham-bacon-sausage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer_job</title>
+      <link>http://caspianacres.ca/tags/summer_job/</link>
+      <pubDate>Sun, 04 Mar 2018 15:21:46 -0800</pubDate>
+      
+      <guid>http://caspianacres.ca/tags/summer_job/</guid>
       <description></description>
     </item>
     
