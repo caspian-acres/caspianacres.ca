@@ -11,13 +11,13 @@ tags: ["intern","summer_job","Kamloops","hiring"]
 We are looking for a summer intern to help us take care of our farm and expand our integrated duck and black soldier fly farming operation. This is a new and experimental concept that we are developing on our farm and we believe it is a great way to produce high quality and delicious meat for our local market, right here in Kamloops.
 
 ## When
-The position starts in May, and lasts for approximately 4 months, however we need to identify the individual we will be hiring before end of March.
+The position starts in May, and lasts for approximately four months, however we need to identify the individual we will be hiring before end of March.
 
 ## Who is this position for?
 We are looking for a motivated individual who is passionate about small scale farming and food sovereignty. Previous farm experience is not required but would be an asset. However, working on a farm is not for the faint of heart. Here is a checklist to see if this internship might be suitable for you:
 
 * Must not be afraid of poop
-* Must not be afraid of maggots
+* Must not be afraid of insects
 * Must not be afraid of shovel
 * Must be willing to work with many different farm animals
 * Reliable and able to work early morning shifts
