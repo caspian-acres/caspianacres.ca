@@ -31,12 +31,16 @@ Because this position is partially funded by Agricultural Youth Green Jobs Initi
 * Canadian citizen or permanent resident
 
 ## Duties
+
 Your main task on the farm will be to take care of animals by providing food and water regularly and cleaning their pens. The animals you will be usually dealing with include:
+
 * Black soldier flies and their larvae
 * Ducks, Chickens and Turkeys
 * Pigs
 * Sheep and Guardian Dogs
+
 Some of the other tasks that you may be required to do from time to time include:
+
 * Help with planting vegetables and trees
 * Watering plants
 * picking up large amount of produce scraps from town
