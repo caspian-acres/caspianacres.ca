@@ -20,7 +20,6 @@ We are looking for a motivated individual who is passionate about small scale fa
 * Must not be afraid of maggots
 * Must not be afraid of shovel
 * Must be willing to work with many different farm animals
-* Understand that some of the animals on the farm are raised for meat
 * Reliable and able to work early morning shifts
 * Have a valid BC driver's license
 
@@ -43,7 +42,8 @@ Some of the other tasks that you may be required to do from time to time include
 
 * Help with planting vegetables and trees
 * Watering plants
-* picking up large amount of produce scraps from town
+* Picking up large amount of produce scraps from town
+* Delivering produce to customers
 
 ## Get in touch!
 
