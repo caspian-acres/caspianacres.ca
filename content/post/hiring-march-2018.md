@@ -6,15 +6,15 @@ featured_image: "/images/galova_and_lamb.jpg"
 tags: ["intern","summer_job","Kamloops","hiring"]
 ---
 
-# We are hiring!
+# Paid Summer Internship Opportunity
 
-We are looking for a summer intern to help us take care of our farm and expand our integrated duck and black soldier fly farming operation. This is a new and experimental concept that we are developing on our farm and we believe it is a great way to produce high quality and delicious meat for our local market, right here in Kamloops.
+We are looking for a summer intern to help us take care of our farm and expand our integrated duck and black soldier fly farming operation. This is a new and experimental concept that we are developing on our farm and we believe it is a great way to produce high quality and delicious food for our local market, right here in Kamloops.
 
-## When
-The position starts in May, and lasts for approximately four months, however we need to identify the individual we will be hiring before end of March.
+## Details
+The position starts in May, and lasts for approximately four months, however we need to identify the individual we will be hiring before Monday April 16th. Pay will be 14$ per hour and work can be full time or part time depending on your availability. Hours of work are very flexible for most of the summer except the month of August while you take over the morning and evening shifts.
 
 ## Who is this position for?
-We are looking for a motivated individual who is passionate about small scale farming and food sovereignty. Previous farm experience is not required but would be an asset. However, working on a farm is not for the faint of heart. Here is a checklist to see if this internship might be suitable for you:
+We are looking for a motivated individual who is passionate about small scale farming and food security. Previous farm experience is not required but would be an asset. However, working on a farm is not for the faint of heart. Here is a checklist to see if this internship might be suitable for you:
 
 * Must not be afraid of poop
 * Must not be afraid of insects
@@ -44,6 +44,7 @@ Some of the other tasks that you may be required to do from time to time include
 * Watering plants
 * Picking up large amount of produce scraps from town
 * Delivering produce to customers
+* Building and planting huglecultures, swales and other permaculture projects
 
 ## Get in touch!
 
