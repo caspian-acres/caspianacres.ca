@@ -35,7 +35,7 @@ One of our core principles for our farm is that we want to work with nature and 
 Spring is always a fun season at our farm. Every week we find ducks emerging out of their nests with a dozen or so ducklings. If ducks are happy and well fed, they naturally grow their population very fast. This is very good because it means we do not have to spend a lot of energy and time keeping the ducklings warm and safe.
 
 ## Ducks are delicious!
-{{< figure src="/images/ducks/brownstone_duck_dish.jpg" title="This beautiful dish is on the menue at brownstone restaurant" >}}
+{{< figure src="/images/ducks/brownstone_duck_dish.jpg" title="This beautiful dish is on the menu at brownstone restaurant" >}}
 
 I can give you many more reasons why ducks are a great fit for local regenerative food production, but what better reason to choose ducks than the fact that they are absolutely delicious. The only catch is that you need to know how to prepare ducks. However, do not worry, we have you covered. Currently you can find our ducks locally on the menu at [Brownstone Restaurant](http://www.brownstone-restaurant.com/). If you have not been there, you should definitely check them out. We love working with Brownstone because they genuinely support local farmers and develop long term working relationships with them.
 
@@ -47,8 +47,8 @@ We really enjoy working with brownstone especially seeing their respect for food
 
 We should also let you know that you can find our duck eggs on the supper menu at Red Beard Cafe. We have had duck eggs a hundred different ways, but this is one of our favourite duck egg dishes. If you find yourself at Red Beard Cafe after 5pm and you are hungry, order the Caspian Acres duck egg on flat bread for a delicious and filling meal.
 
-{{< figure src="/images/ducks/red_beard_duck_eggs.jpg" title="Our duck eggs on the supper menu at red beared cafe" >}}
+{{< figure src="/images/ducks/red_beard_duck_eggs.jpg" title="Our duck eggs on the supper menu at red beard cafe" >}}
 
 {{< youtube mRySTO2xAFc >}}
 
-> We hope this post inspires you to go our there and eat some ducks and duck eggs. Enjoy!
+> We hope this post inspires you to go out there and eat some ducks and duck eggs. Enjoy!
